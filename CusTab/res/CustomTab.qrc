@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/CustomTab"/>
+    <qresource prefix="/1kCustomTab">
+        <file>image/default_100_precent/caption_bg.png</file>
+        <file>image/default_100_precent/close.png</file>
+        <file>image/default_100_precent/close_hover.png</file>
+        <file>image/default_100_precent/close_pressed.png</file>
+        <file>image/default_100_precent/max.png</file>
+        <file>image/default_100_precent/max_hover.png</file>
+        <file>image/default_100_precent/max_pressed.png</file>
+        <file>image/default_100_precent/min.png</file>
+        <file>image/default_100_precent/min_hover.png</file>
+        <file>image/default_100_precent/min_pressed.png</file>
+        <file>image/default_100_precent/restore.png</file>
+        <file>image/default_100_precent/restore_hover.png</file>
+        <file>image/default_100_precent/restore_pressed.png</file>
+        <file>image/default_100_precent/tab.png</file>
+        <file>image/default_100_precent/tab_check.png</file>
+        <file>image/default_100_precent/tab_close.png</file>
+        <file>image/default_100_precent/tab_close_hover.png</file>
+        <file>image/default_100_precent/tab_close_pressed.png</file>
+        <file>image/default_100_precent/tab_hover.png</file>
+        <file>style/default_100_precent/style.qss</file>
+        <file>image/default_100_precent/default.ico</file>
+    </qresource>
+</RCC>

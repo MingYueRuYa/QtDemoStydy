@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/CustomMenu">
+        <file>res/menu_shortcut.png</file>
+        <file>res/menu_startup.png</file>
+        <file>res/menu_top.png</file>
+    </qresource>
+</RCC>

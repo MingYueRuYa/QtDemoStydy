@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>res/image/btn_login.png</file>
+        <file>res/image/btn_login_disabled.png</file>
+        <file>res/image/btn_login_hover.png</file>
+        <file>res/image/btn_login_push.png</file>
+        <file>res/image/register_btn_loading.gif</file>
+    </qresource>
+</RCC>

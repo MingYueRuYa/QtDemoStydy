@@ -1,0 +1,73 @@
+/*游戏界面标题栏按钮 %1 button圆角 */
+
+QWidget#captionWidget{
+border-image: url(:/1kCustomTab/image/default_100_precent/caption_bg.png);
+}
+
+QWidget#mainWidget{
+border:1px solid #303031;
+}
+
+/*关闭按钮*/
+QPushButton#btn_close{ 
+border-image: url(:/1kCustomTab/image/default_100_precent/close.png);
+border:none;
+}  
+
+QPushButton#btn_close:hover{  
+border-image: url(:/1kCustomTab/image/default_100_precent/close_hover.png);
+border:none;
+}  
+
+QPushButton#btn_close:pressed{  
+border-image: url(:/1kCustomTab/image/default_100_precent/close_pressed.png);
+border:none;
+} 
+
+/*最小化按钮*/
+QPushButton#btn_min{ 
+border-image: url(:/1kCustomTab/image/default_100_precent/min.png);
+border:none;
+}  
+
+QPushButton#btn_min:hover{  
+border-image: url(:/1kCustomTab/image/default_100_precent/min_hover.png);
+border:none;
+}  
+
+QPushButton#btn_min:pressed{  
+border-image: url(:/1kCustomTab/image/default_100_precent/min_pressed.png);
+border:none;
+} 
+
+/*最大化按钮 */
+QPushButton#btn_max{ 
+border-image: url(:/1kCustomTab/image/default_100_precent/max.png);
+border:none;
+}  
+
+QPushButton#btn_max:hover{  
+border-image: url(:/1kCustomTab/image/default_100_precent/max_hover.png);
+border:none;
+}  
+
+QPushButton#btn_max:pressed{  
+border-image: url(:/1kCustomTab/image/default_100_precent/max_pressed.png);
+border:none;
+}
+
+QPushButton#btn_restore{ 
+border-image: url(:/1kCustomTab/image/default_100_precent/restore.png);
+border:none;
+}  
+
+QPushButton#btn_restore:hover{  
+border-image: url(:/1kCustomTab/image/default_100_precent/restore_hover.png);
+border:none;
+}  
+
+QPushButton#btn_restore:pressed{  
+border-image: url(:/1kCustomTab/image/default_100_precent/restore_pressed.png);
+border:none;
+} 
+
