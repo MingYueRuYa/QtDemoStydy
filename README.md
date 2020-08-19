@@ -6,3 +6,14 @@
 更多内容请关注微信公众号：cpp手艺人
 
 ![image](https://github.com/MingYueRuYa/FFmpeg-RTMP/blob/master/doc/wechat_web.png)
+
+
+## custom tab
+![image](https://github.com/MingYueRuYa/QtDemoStydy/blob/master/res/custom_tab.gif)
+
+## gif button
+![image](https://github.com/MingYueRuYa/QtDemoStydy/blob/master/res/gifbutton.gif)
+
+## custom menu
+![image](https://github.com/MingYueRuYa/QtDemoStydy/blob/master/res/custom_menu.gif)
+
