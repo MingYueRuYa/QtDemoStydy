@@ -15,6 +15,10 @@ public:
     explicit Widget(QWidget *parent = 0);
     ~Widget();
 
+protected slots:
+    void OnMouseLeave();
+    void OnMouseEnter();
+
 private:
     Ui::Widget *ui;
 };

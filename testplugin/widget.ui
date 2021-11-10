@@ -16,24 +16,11 @@
   <widget class="QMyExtLabel" name="qMyExtLabel">
    <property name="geometry">
     <rect>
-     <x>30</x>
-     <y>20</y>
-     <width>161</width>
+     <x>90</x>
+     <y>110</y>
+     <width>251</width>
      <height>91</height>
     </rect>
-   </property>
-   <property name="borderSize" stdset="0">
-    <number>4</number>
-   </property>
-   <property name="textStroke" stdset="0">
-    <bool>true</bool>
-   </property>
-   <property name="textColor" stdset="0">
-    <color>
-     <red>255</red>
-     <green>0</green>
-     <blue>255</blue>
-    </color>
    </property>
   </widget>
  </widget>
